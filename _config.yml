@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Chaeree Park
-title: M.S. student at Biorobotics Lab in Deparetment of Mechanical Engineering at KAIST  [CV](https://www.overleaf.com/read/qzgsqqxdmzqx)
+title: M.S. student at Biorobotics Lab in Deparetment of Mechanical Engineering at KAIST
 email: cofl0530@kaist.ac.kr
 
 #website: www.github.com/sproogen/resume-theme
@@ -50,6 +50,7 @@ instagram_username: chaeree_park
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's chaeree Park and I'm a M.S. student at [Biorobotics Lab](http://biorobotics.kaist.ac.kr "Go to Bioribotics Lab Homepage") in Deparetment of Mechanical Engineering at KAIST, advised by Jung Kim.
+  [CV](https://www.overleaf.com/read/qzgsqqxdmzqx)
   - __Technical Skills__  
     - __Tools__ SOLIDWORKS, Python, C++, MATLAB, LabVIEW, Data acquisition
     - __Applications__ Reinforcement learning, , Autoencoder, CNN, DNN, openCV
