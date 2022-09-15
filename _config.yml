@@ -9,6 +9,7 @@ version: 2
 name: Chaeree Park
 title: M.S. student at Biorobotics Lab in Deparetment of Mechanical Engineering at KAIST
 email: cofl0530@kaist.ac.kr
+CV: [CV](https://www.overleaf.com/read/qzgsqqxdmzqx)
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -75,7 +76,7 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  - title: Research Interests # Title for the section
+  - title: Field of Interest # Title for the section
     layout: text # Type of content section (list/text)
     content:
         __Soft robotics__, __Reinforcement learning__, __Autoencoder__
