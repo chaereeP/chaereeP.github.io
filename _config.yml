@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Chaeree Park
-title: M.S. student at [Biorobotics Lab] in Deparetment of Mechanical Engineering at KAIST
+title: M.S. student at [Biorobotics Lab](http://biorobotics.kaist.ac.kr "Bioribotics Lab Homepage") in Deparetment of Mechanical Engineering at KAIST
 email: cofl0530@kaist.ac.kr
 #website: www.github.com/sproogen/resume-theme
 
@@ -48,14 +48,14 @@ instagram_username: chaeree_park
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's chaeree Park and I'm a M.S. student at [Biorobotics Lab] in Deparetment of Mechanical Engineering at KAIST, advised by Jung Kim.
+  Hi, my name's chaeree Park and I'm a M.S. student at [Biorobotics Lab](http://biorobotics.kaist.ac.kr "Bioribotics Lab Homepage") in Deparetment of Mechanical Engineering at KAIST, advised by Jung Kim.
   - __Technical Skills__  
     - __Tools__ SOLIDWORKS, Python, C++, MATLAB, LabVIEW, Data acquisition
     - __Applications__ Reinforcement learning, , Autoencoder, CNN, DNN, openCV
   - __Languages__  
     - __Korean__ Native
     - __English__ Basic (TOEFL 98)
-[Biorobotics Lab]: http://biorobotics.kaist.ac.kr "Bioribotics Lab Homepage"
+#[Biorobotics Lab]: http://biorobotics.kaist.ac.kr "Bioribotics Lab Homepage"
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
