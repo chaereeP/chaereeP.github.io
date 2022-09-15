@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Chaeree Park
-title: M.S. student in KAIST
+title: M.S. student at [Biorobotics Lab] in Deparetment of Mechanical Engineering at KAIST
 email: cofl0530@kaist.ac.kr
 #website: www.github.com/sproogen/resume-theme
 
@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   - __Languages__  
     - __Korean__ Native
     - __English__ Basic (TOEFL 98)
-  [Biorobotics Lab]: http://biorobotics.kaist.ac.kr "Bioribotics Lab Homepage"
+[Biorobotics Lab]: http://biorobotics.kaist.ac.kr "Bioribotics Lab Homepage"
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -127,7 +127,7 @@ content:
           - Reinforcement learning in robotics, python, pytorch, ROS, tensorflow
           - Develop and apply algorithms of SAC and PPO to actuate robot in RaiSim simulation
       - layout: left
-        title: Human Lab, KAIST
+        title: HUMAN Lab, KAIST
         sub_title: Prof. Yonghwa Park
         caption: Dec. 2017 - Feb. 2018
         description: | # this will include new lines to allow paragraphs
