@@ -49,10 +49,12 @@ instagram_username: chaeree_park
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's chaeree Park and I'm a M.S. student at Biorobotics Lab, Dept. of Mechanical Engineering, KAIST, advised by Jung Kim.
-  - __Skills__:  SolidWorks, Python, C++, MATLAB, LabVIEW, Data acquisition
-  - __Languages__:  
-    - Korean Native
-    - English (Basic, TOEFL 98)
+  - __Technical Skills__  
+    - __Tools__ SolidWorks, Python, C++, MATLAB, LabVIEW, Data acquisition
+    - __Applications__ Reinforcement learning, CNN, DNN, openCV
+  - __Languages__  
+    - __Korean__ Native
+    - __English__ Basic (TOEFL 98)
 
 content:
 #  - title: Projects # Title for the section
