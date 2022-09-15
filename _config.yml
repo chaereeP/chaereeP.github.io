@@ -113,8 +113,8 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", ICCAS, 2022 (Submitted)
-      - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", RAL, 2022 (in progress)
+      - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", International Conference on Control, Automation and Systems (ICCAS), 2022 (Submitted)
+      - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", IEEE Robotics and Automation Letters (RA-L), 2022 (in progress)
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
