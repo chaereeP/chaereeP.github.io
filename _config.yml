@@ -48,7 +48,7 @@ instagram_username: chaeree_park
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's chaeree Park and I'm a M.S. student at the Biorobotics Lab, Dept. of Mechanical Engineering, KAIST, advised by Jung Kim.   
+  Hi, my name's chaeree Park and I'm a M.S. student at the Biorobotics Lab, Dept. of Mechanical Engineering, KAIST, advised by Jung Kim.
 #  I'm mAs well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
   __Skills__  SolidWorks, Python, MATLAB, LabVIEW, Data acquisition
   __Languages__  Korean (Native), English (Basic ,TOEFL 98)
@@ -121,7 +121,7 @@ content:
           I received a B.S. degree in KAIST, and I worked as a student council member for 2 years.
 
   - title: Publications
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", ICCAS, 2022 (Submitted)
       - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", RAL, 2022 (in progress)
