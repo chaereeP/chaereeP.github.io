@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Chaeree Park
-title: M.S. student at [Biorobotics Lab](http://biorobotics.kaist.ac.kr "Go to Bioribotics Lab Homepage") in Deparetment of Mechanical Engineering at KAIST
+title: M.S. student at Biorobotics Lab in Deparetment of Mechanical Engineering at KAIST
 email: cofl0530@kaist.ac.kr
 #website: www.github.com/sproogen/resume-theme
 
@@ -102,7 +102,7 @@ content:
         caption: 2021 - Present
         sub_title: MSc in Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
-          - Thesis Advisor : Prof. Jung Kim
+          Thesis Advisor : Prof. Jung Kim
       - layout: left
         title: KAIST
         caption: 2016 - 2021
@@ -116,6 +116,7 @@ content:
       - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", International Conference on Control, Automation and Systems (ICCAS), 2022 (Submitted)
       - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", IEEE Robotics and Automation Letters (RA-L), 2022 (in progress)
       - Chaeree Park, Hyunkyu Park, and Jung Kim, "Proprioceptive Control of Soft Robot Locomotion based on Sim-to-Real Reinforcement Learning", IEEE Robotics and Automation Letters (RA-L), 2022 (in progress)
+
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
