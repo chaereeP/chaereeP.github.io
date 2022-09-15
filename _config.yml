@@ -48,9 +48,11 @@ instagram_username: chaeree_park
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's chaeree Park and I'm a M.S. student at the Biorobotics Lab, Dept. of Mechanical Engineering, KAIST, advised by Jung Kim.
-  __Skills__  SolidWorks, Python, MATLAB, LabVIEW, Data acquisition
-  __Languages__  Korean (Native), English (Basic, TOEFL 98)
+  Hi, my name's chaeree Park and I'm a M.S. student at Biorobotics Lab, Dept. of Mechanical Engineering, KAIST, advised by Jung Kim.
+  - __Skills__:  SolidWorks, Python, C++, MATLAB, LabVIEW, Data acquisition
+  - __Languages__:  
+    - Korean Native
+    - English (Basic, TOEFL 98)
 
 content:
 #  - title: Projects # Title for the section
@@ -74,10 +76,7 @@ content:
   - title: Research Interests # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Soft robotics, Reinforcement learning, Autoencoder
-        description: | # this will include new lines to allow paragraphs
-          Nothing
+        Soft robotics, Reinforcement learning, Autoencoder
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
@@ -117,7 +116,7 @@ content:
         caption: 2016 - 2021
         sub_title: BSc in  Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
-          I received a B.S. degree in KAIST, and I worked as a student council member for 2 years.
+          I received a B.S. degree in KAIST, and I worked as a student council member of mechanical engineering department for 2 years.
 
   - title: Publications
     layout: text
