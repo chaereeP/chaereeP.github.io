@@ -48,14 +48,14 @@ instagram_username: chaeree_park
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's chaeree Park and I'm a M.S. student at Biorobotics Lab, Dept. of Mechanical Engineering, KAIST, advised by Jung Kim.
+  Hi, my name's chaeree Park and I'm a M.S. student at [Biorobotics Lab] in Deparetment of Mechanical Engineering at KAIST, advised by Jung Kim.
   - __Technical Skills__  
-    - __Tools__ SolidWorks, Python, C++, MATLAB, LabVIEW, Data acquisition
+    - __Tools__ SOLIDWORKS, Python, C++, MATLAB, LabVIEW, Data acquisition
     - __Applications__ Reinforcement learning, , Autoencoder, CNN, DNN, openCV
   - __Languages__  
     - __Korean__ Native
     - __English__ Basic (TOEFL 98)
-
+  [Biorobotics Lab]: http://biorobotics.kaist.ac.kr "Bioribotics Lab Homepage"
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -120,14 +120,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Robotics and Artificial Intelligence Lab
+        title: Robotics and Artificial Intelligence Lab, KAIST
         sub_title: Prof. Jemin Hwangbo
         caption: Jul. 2021 - Sep. 2021
         description: | # this will include new lines to allow paragraphs
           - Reinforcement learning in robotics, python, pytorch, ROS, tensorflow
           - Develop and apply code for SAC and PPA to actuate robot in RaiSim simulation
       - layout: left
-        title: Human Lab
+        title: Human Lab, KAIST
         sub_title: Prof. Yonghwa Park
         caption: Dec. 2017 - Feb. 2018
         description: | # this will include new lines to allow paragraphs
