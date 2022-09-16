@@ -49,7 +49,7 @@ instagram_username: chaeree_park
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's chaeree Park and I'm a M.S. student at [Biorobotics Lab](http://biorobotics.kaist.ac.kr "Go to Bioribotics Lab Homepage") in Deparetment of Mechanical Engineering at KAIST, advised by Jung Kim.
+  Hi, my name is chaeree Park, and I'm a M.S. student in Deparetment of Mechanical Engineering at Korea Advanced Institute of Science and Technology (KAIST). I am researching in [Biorobotics Lab](http://biorobotics.kaist.ac.kr "Go to Bioribotics Lab Homepage"), under supervision of Professor Jung Kim.
   - __Technical Skills__  
     - __Tools__ SOLIDWORKS, Python, C++, MATLAB, LabVIEW, Data acquisition
     - __Applications__ Reinforcement learning, , Autoencoder, CNN, DNN, openCV
@@ -117,7 +117,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", International Conference on Control, Automation and Systems (ICCAS), 2022 (Submitted)
+      - __Chaeree Park__, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", International Conference on Control, Automation and Systems (ICCAS), 2022 (Submitted)
 #      - Chaeree Park, Hyunkyu Park, and Jung Kim, "Unsupervised Sim-Real Synchronization of the Soft Robot with Proprioceptive Sensors using Latent Representation Learning", IEEE Robotics and Automation Letters (RA-L), 2022 (in progress)
 #      - Chaeree Park, Hyunkyu Park, and Jung Kim, "Proprioceptive Control of Soft Robot Locomotion based on Sim-to-Real Reinforcement Learning", IEEE Robotics and Automation Letters (RA-L), 2022 (in progress)
 
@@ -139,16 +139,16 @@ content:
           - CNN, python, tensorflow, openCV, keras
           - Develop code to increase accuracy of motion recognition with kinect sensor by CNN
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Capstone Design 1, 2
-        caption: Mar. 2019 - Dec. 2019
-        description: | # this will include new lines to allow paragraphs
-          - Award : 1st place in both capstone design 1, 2
-          - CNN, DNN, python, pytorch, ROS, tensorflow, openCV
-          - Actuate wheeled robot to pick red and blue balls while pass through the maze and release them in each basket separately without human control using DNN and CNN
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Capstone Design 1, 2
+#        caption: Mar. 2019 - Dec. 2019
+#        description: | # this will include new lines to allow paragraphs
+#          - Award : 1st place in both capstone design 1, 2
+#          - CNN, DNN, python, pytorch, ROS, tensorflow, openCV
+#          - Actuate wheeled robot to pick red and blue balls while pass through the maze and release them in each basket separately without human control using DNN and CNN
 
 #  - title: A Little More About Me
 #    layout: text
